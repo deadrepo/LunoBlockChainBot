@@ -1,0 +1,21 @@
+{
+  "name": "lunotelegrambot",
+  "version": "1.0.0",
+  "description": "About Telegram cryptocurrency Bot created by @satoshisyurei or @ikmxleo. You can check the current price of Bitcoin, Ethereum, Ripple, and Litecoins both in MYR and USD. Also with news features added and a funfacts about Bitcoins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "May the world heal with this bullshit"
+  },
+
+  "keywords": ["ikmxleo", "satoshisyurei", "luno", "telegrambot"],
+
+  "author": "ikmxleo",
+  "license": "ISC",
+
+  "dependencies": {
+    "axios": "^0.21.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "telegraf": "^3.38.0"
+  }
+}
