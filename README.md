@@ -14,3 +14,12 @@ How to run
 8) if it doesn't work do it manually such as "npm install telegraf --save"
 9) to run the program basically type "node yourfilename.js"
 10) Open your telegrambot at telegram and try the command
+
+Some snapshot inside Telegram
+//Price Command
+
+![](images/price.JPG)
+
+//News Command
+
+![](imagesnews.JPG)
