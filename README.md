@@ -22,4 +22,4 @@ Some snapshot inside Telegram
 
 //News Command
 
-![](images/news.JPG)
+![](images/news.jpg)
