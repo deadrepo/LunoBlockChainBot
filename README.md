@@ -1,6 +1,11 @@
 # LunoTelegramBot
 Telegram cryptocurrency Bot created by @icyurei or @ikmxleo. You can check the current price of Bitcoin, Ethereum, Ripple, and Litecoins both in MYR and USD. Also with news features added and a funfacts about Bitcoins.
 
+created by @icyurei or @ikxmleo [4zer0day]
+contact me for source code
+donate me some ETH
+0xa01A95878447dfbCdb47d85ed6898C1d241Af5d6⠀
+
 How to run
 
 1) create a folder 
