@@ -16,7 +16,7 @@ How to run
 3) create another file called anything that you want which in my case app.js
 4) create that damn /newbot at botfather and get that annoying API Key
 5) add the API key at the file app.js that I gave here probably at line 11 :)
-6) copy my package.json to your package.json. Actually step 2 is not needed, I just want you to learn stupid 
+6) copy my package.json to your package.json. Actually step 2 is not needed, I just want you to learn  
 7) okay now type "npm install --save". It will add the package inside package.json
 8) node modules file and package-lock.json will be created
 8) if it doesn't work do it manually such as "npm install telegraf --save"
