@@ -1,7 +1,7 @@
 # LunoBlockChainBot
-[LunoBlockChainBot] is a telegram cryptocurrency Bot created by @icyurei or @ikmxleo. You can check the current price of Bitcoin, Ethereum, Ripple, and Litecoins both in MYR and USD. Also with news features added and a funfacts about Bitcoins.
+[LunoBlockChainBot] is a telegram cryptocurrency Bot created by deadrepo. You can check the current price of Bitcoin, Ethereum, Ripple, and Litecoins both in MYR and USD. Also with news features added and a funfacts about Bitcoins.
 
-created by @icyurei or @ikxmleo [4zer0day]
+created by deadrepo
 
 contact me for source code
 
